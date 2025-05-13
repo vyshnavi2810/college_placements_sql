@@ -31,10 +31,4 @@ This project provides a clean web interface built with Flask for executing SQL q
 
 ---
 
-## 📦 Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/placement-sql-gui.git
-cd placement-sql-gui
 
